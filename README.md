@@ -28,6 +28,7 @@ flutter run
 ## Screenshot
 
 <img src="assets/screenshots/searchable-listview.png" />
+<img src="assets/screenshots/slidable-listview.png" />
 
 ## Links
 
