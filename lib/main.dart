@@ -59,6 +59,7 @@ class _HomePageState extends State<HomePage> {
           height: 38,
           child: TextField(
             onChanged: (value) => onSearch(value),
+            style: TextStyle(color: Colors.white),
             decoration: InputDecoration(
               filled: true,
               fillColor: Colors.grey[850],
